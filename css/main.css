@@ -151,14 +151,14 @@ a:visited { color: #205caa; }
 .posts li { margin-bottom: 30px; }
 
 .posts .post-link {
-  font-size: 24px;
+  font-size: 1.2em;
   letter-spacing: -1px;
   line-height: 1;
 }
 
 .posts .post-date {
-  display: block;
-  font-size: 15px;
+  display: inline-block;
+  font-size: 1em;
   color: #818181;
 }
 
