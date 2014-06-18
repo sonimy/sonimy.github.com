@@ -13,4 +13,4 @@ url: "https://sonimy.github.com"
 markdown: kramdown
 permalink: /:categories/:year-:month/:title.html
 excerpt_separator: "\n\n\n"
-google_analytics_id: "19378022"
+google_analytics_id: "UA-19378022-2"
